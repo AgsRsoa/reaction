@@ -1,7 +1,7 @@
 {
     "publishKey":"pub-c-aeab8823-662a-4480-b629-befdb3745f25",
     "subscribeKey":"sub-c-8af2e85d-9058-45ce-a9d9-d845bd5d4609",
-    "secretKey":"sec-c-NjZlNGY2MWItYWZlZS00MDA3LThiMmUtNjA2Y2YxNTU2OTA4"
+    "secretKey":"SECRET_KEY"
     
 
 }
